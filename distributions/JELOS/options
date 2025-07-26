@@ -11,10 +11,10 @@
   GIT_ORGANIZATION="UzuCore"
 
 # The name of the github project for updates
-  GIT_REPO="JELOS"
+  GIT_REPO="JELOSK"
 
 # Name of the Distro to build (full name, without special characters)
-  DISTRONAME="JELOS"
+  DISTRONAME="JELOSK"
 
 # short project description
   DESCRIPTION="An Open Source firmware."
